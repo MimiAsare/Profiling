@@ -1,6 +1,6 @@
 # Number Guessing Game
 # Date created: 2-09-2023
-# Author: Your Name
+# Author: Miriam Asare-Baiden
 
 import random
 
